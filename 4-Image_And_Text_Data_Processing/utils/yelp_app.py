@@ -1,0 +1,3 @@
+# api key gotten from yelp data platform
+userID="w8flMOM04LfF0175Stp3AA"
+apiKey="ddZW4lH5IQTmJSuniLcxgzD0zwvfiWSorLuoG7o_NykoWYyvW6SI09NfkJj1qARWrVLeNHXNQEIbQKmCmhdJUh480DeG7iXH1yddvCkyYfM9r1IuqPstyH1iXsBvYXYx"
